@@ -1,3 +1,6 @@
+CMakeSettings.json
+.vs/
+out/
 inc/CL/
 inc/EGL/
 inc/KHR/
